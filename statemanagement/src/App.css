@@ -1,0 +1,14 @@
+.app {
+  text-align: center;
+  padding: 20px;
+}
+
+.light-control {
+  margin-bottom: 20px;
+}
+
+button {
+  font-size: 16px;
+  padding: 10px 20px;
+  margin: 0 5px;
+}
